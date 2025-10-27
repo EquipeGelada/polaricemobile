@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Polar Ice theme colors matching web app -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary blue colors from web -->
+    <color name="blue_500">#3B82F6</color>
+    <color name="blue_600">#2563EB</color>
+    <color name="blue_700">#1D4ED8</color>
+    
+    <!-- Cyan colors from web -->
+    <color name="cyan_100">#E0F7FA</color>
+    <color name="cyan_200">#B2EBF2</color>
+    
+    <!-- Gray colors -->
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_300">#D1D5DB</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+    
+    <!-- Success colors -->
+    <color name="green_500">#10B981</color>
+    <color name="green_600">#059669</color>
+    <color name="green_700">#047857</color>
+    
+    <!-- Error colors -->
+    <color name="red_500">#EF4444</color>
+    <color name="red_600">#DC2626</color>
+    <color name="red_700">#B91C1C</color>
+    
+    <!-- Background gradient colors -->
+    <color name="background_gradient_start">#DBEAFE</color>
+    <color name="background_gradient_end">#E0F7FA</color>
 </resources>
