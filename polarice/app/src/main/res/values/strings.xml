@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">polar ice</string>
+    <string name="app_name">Polar Ice - Motorista</string>
+    <string name="login_title">Polar Ice App</string>
+    <string name="email_hint">Login (E-mail)</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="deliveries_title">Entregas Pendentes</string>
+    <string name="refresh_button">Atualizar</string>
+    <string name="complete_delivery">Marcar como Concluído</string>
+    <string name="client_label">Cliente:</string>
+    <string name="address_label">Endereço:</string>
+    <string name="loading">A carregar...</string>
+    <string name="login_error">Erro de Login</string>
+    <string name="invalid_credentials">E-mail ou senha inválidos</string>
+    <string name="network_error">Erro de conexão. Verifique sua internet.</string>
+    <string name="success">Sucesso</string>
+    <string name="delivery_completed">Entrega marcada como concluída!</string>
+    <string name="confirm_complete">Confirmar Conclusão</string>
+    <string name="confirm_complete_message">Tem certeza que deseja marcar esta entrega como concluída?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="logout">Sair</string>
+    <string name="no_deliveries">Nenhuma entrega pendente</string>
+    <string name="error">Erro</string>
+    <string name="ok">OK</string>
 </resources>
